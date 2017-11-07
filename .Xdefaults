@@ -1,0 +1,46 @@
+URxvt.scrollBar: false
+
+!URxvt.font: xft:System San Francisco Display Ultralight:pixelsize=10
+URxvt.font: xft:Anonymous:pixelsize=18
+
+URxvt.letterSpace: -2
+
+URxvt*fading: 5
+
+!*background: #F5F6F7
+*depth: 32
+*background: [50]#000000
+
+*foreground: #4E8CEF
+
+! Black
+*color0: #262729
+*color8: #554444
+! Red
+*color1: #F92671
+*color9: #F92671
+! Green
+*color2: #A6E22E
+*color10: #A6E22E
+! Yellow
+*color3: #FD971F
+*color11: #FD971F
+! Blue
+*color4: #66D9EF
+*color12: #66D9EF
+! Magenta
+*color5: #9E6FFE
+*color13: #9E6FFE
+! Cyan
+*color6: #5E7175
+*color14: #9ACED9
+! White
+*color7: #F8F8F2
+*color15: #F8F8F2
+
+!*transparent: yes
+!*tintColor: #5F5F61
+!*shading: 120
+
+URxvt.internalBorder: 5
+URxvt.externalBorder: 0
