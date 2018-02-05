@@ -44,3 +44,12 @@ URxvt*fading: 5
 
 URxvt.internalBorder: 5
 URxvt.externalBorder: 0
+
+!! Extensions:
+URxvt.perl-ext-common: default,resize-font,matcher
+!! matcher
+urxvt.urlLauncher: qutebrowser
+urxvt.matcher.button: 1
+!! resize-font
+URxvt.resize-font.smaller:	C-k
+URxvt.resize-font.bigger:	C-i

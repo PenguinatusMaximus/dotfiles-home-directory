@@ -3,820 +3,247 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Besprechung.odt" added="2017-09-23T12:11:06Z" modified="2017-10-20T15:27:22Z" visited="2017-09-23T12:11:07Z">
+  <bookmark href="file:///media/andreas/Linux_Data" added="2017-10-27T17:13:48Z" modified="2018-01-20T17:57:44Z" visited="2017-10-27T17:13:48Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-20T15:27:22Z" count="26"/>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2018-01-20T17:57:44Z" count="26"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Nationalpark/F%C3%BChrungen/Kitzsteinhorn/Explorer_Tour/ExplorerTour.pdf" added="2017-09-24T12:10:34Z" modified="2017-10-07T16:44:34Z" visited="2017-09-24T12:10:34Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-10-06T19:07:48Z" count="11"/>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-10-07T16:44:34Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Kursteilnehmer.odb" added="2017-10-07T09:13:12Z" modified="2017-10-20T16:39:06Z" visited="2017-10-07T09:13:12Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.database"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-20T16:39:06Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Kletterkursteilnehmer_2017_18.odt" added="2017-10-07T12:26:24Z" modified="2017-10-25T19:27:17Z" visited="2017-10-07T12:26:24Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-25T19:27:17Z" count="124"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-default.ott" added="2017-10-07T13:47:51Z" modified="2017-10-15T15:24:30Z" visited="2017-10-07T13:47:51Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:24:30Z" count="15"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-04.ott" added="2017-10-07T13:48:28Z" modified="2017-10-15T15:23:10Z" visited="2017-10-07T13:48:28Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:10Z" count="8"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-05.ott" added="2017-10-07T13:48:29Z" modified="2017-10-15T15:23:11Z" visited="2017-10-07T13:48:30Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:11Z" count="10"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-02.ott" added="2017-10-07T13:48:31Z" modified="2017-10-15T15:23:12Z" visited="2017-10-07T13:48:31Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:12Z" count="6"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-01.ott" added="2017-10-07T13:48:38Z" modified="2017-10-15T15:23:15Z" visited="2017-10-07T13:48:38Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:15Z" count="6"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-051.ott" added="2017-10-07T13:48:41Z" modified="2017-10-15T15:23:21Z" visited="2017-10-07T13:48:41Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:21Z" count="6"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-031.ott" added="2017-10-07T13:48:43Z" modified="2017-10-15T15:23:25Z" visited="2017-10-07T13:48:43Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:25Z" count="6"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-011.ott" added="2017-10-07T13:48:44Z" modified="2017-10-15T15:23:27Z" visited="2017-10-07T13:48:44Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:27Z" count="6"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-061.ott" added="2017-10-07T13:48:44Z" modified="2017-10-15T15:23:29Z" visited="2017-10-07T13:48:44Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:29Z" count="6"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-042.ott" added="2017-10-07T13:48:47Z" modified="2017-10-15T15:23:53Z" visited="2017-10-07T13:48:47Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:53Z" count="16"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-052.ott" added="2017-10-07T13:48:51Z" modified="2017-10-15T15:23:56Z" visited="2017-10-07T13:48:51Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:56Z" count="20"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/Kursteilnehmer_2017_18.odt" added="2017-10-07T13:49:19Z" modified="2017-10-07T13:49:19Z" visited="2017-10-07T13:49:19Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-07T13:49:19Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-022.ott" added="2017-10-07T13:51:20Z" modified="2017-10-15T15:23:55Z" visited="2017-10-07T13:51:21Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:55Z" count="5"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-021.ott" added="2017-10-07T13:51:25Z" modified="2017-10-15T15:23:23Z" visited="2017-10-07T13:51:25Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:23Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-041.ott" added="2017-10-07T13:51:27Z" modified="2017-10-15T15:23:18Z" visited="2017-10-07T13:51:28Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:18Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-06.ott" added="2017-10-07T13:51:28Z" modified="2017-10-15T15:23:16Z" visited="2017-10-07T13:51:28Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:16Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-03.ott" added="2017-10-07T13:51:29Z" modified="2017-10-15T15:23:14Z" visited="2017-10-07T13:51:29Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:23:14Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-062.ott" added="2017-10-07T13:51:36Z" modified="2017-10-07T13:51:36Z" visited="2017-10-07T13:51:37Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-07T13:51:36Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-012.ott" added="2017-10-07T13:51:38Z" modified="2017-10-07T13:51:38Z" visited="2017-10-07T13:51:38Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-07T13:51:38Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///usr/lib/libreoffice/share/template/common/wizard/report/cnt-032.ott" added="2017-10-07T13:51:38Z" modified="2017-10-07T13:51:38Z" visited="2017-10-07T13:51:39Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-07T13:51:38Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/Kursteilnehmer_2017_182.odt" added="2017-10-07T13:51:49Z" modified="2017-10-07T13:51:49Z" visited="2017-10-07T13:51:50Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-07T13:51:49Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/temp_teilnehmerliste" added="2017-10-07T16:42:14Z" modified="2017-10-07T16:42:14Z" visited="2017-10-07T16:42:14Z">
+  <bookmark href="file:///media/andreas/Linux_Backup/database" added="2017-10-29T09:42:42Z" modified="2018-01-20T17:37:56Z" visited="2017-10-29T09:42:42Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-07T16:42:14Z" count="1"/>
+          <bookmark:application name="veracrypt" exec="&apos;veracrypt %u&apos;" modified="2018-01-20T17:37:56Z" count="10"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/temp_teilnehmerliste.pdf" added="2017-10-07T16:43:34Z" modified="2017-10-07T16:43:34Z" visited="2017-10-07T16:43:34Z">
+  <bookmark href="file:///tmp/mozilla_andreas0/Teilnehmerliste%20TN.pdf" added="2018-01-09T08:32:02Z" modified="2018-01-09T11:40:16Z" visited="2018-01-09T08:32:02Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-10-07T16:43:34Z" count="1"/>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:40:16Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Music/Mass%20Effect%203/cover.jpg" added="2017-10-08T18:26:36Z" modified="2017-10-08T18:26:54Z" visited="2017-10-08T18:26:36Z">
+  <bookmark href="file:///tmp/mozilla_andreas0/Last%20Info.pdf" added="2018-01-09T11:39:45Z" modified="2018-01-09T11:39:45Z" visited="2018-01-09T11:39:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:39:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/%C3%9Cbungsleiter_Eiskletter" added="2018-01-09T11:41:15Z" modified="2018-01-09T11:41:15Z" visited="2018-01-09T11:41:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:41:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/%C3%9Cbungsleiter_Eiskletter/Anfahrtsbeschreibung%20-%20Treffpunkt%201.pdf" added="2018-01-09T11:41:15Z" modified="2018-01-09T11:41:15Z" visited="2018-01-09T11:41:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:41:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/%C3%9Cbungsleiter_Eiskletter/Ausr%C3%BCstungsliste.pdf" added="2018-01-09T11:41:15Z" modified="2018-01-09T11:41:15Z" visited="2018-01-09T11:41:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:41:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/%C3%9Cbungsleiter_Eiskletter/Last%20Info.pdf" added="2018-01-09T11:41:15Z" modified="2018-01-09T11:41:15Z" visited="2018-01-09T11:41:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:41:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/%C3%9Cbungsleiter_Eiskletter/Teilnehmerliste%20TN.pdf" added="2018-01-09T11:41:15Z" modified="2018-01-09T11:41:15Z" visited="2018-01-09T11:41:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:41:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andreas0/Ausr%C3%BCstungsliste.pdf" added="2018-01-09T11:41:22Z" modified="2018-01-09T11:41:22Z" visited="2018-01-09T11:41:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:41:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andreas0/Last%20Info-1.pdf" added="2018-01-09T11:41:37Z" modified="2018-01-09T11:41:37Z" visited="2018-01-09T11:41:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-09T11:41:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/andreas/Linux_Data/Dark.SEASON.01.S01.COMPLETE.DUAL-AUDIO.GER-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/Dark.S01E06.Sic.Mundus.Creatus.Est.DUAL-AUDIO.GER-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv" added="2018-01-09T20:33:45Z" modified="2018-01-09T20:33:45Z" visited="2018-01-09T20:33:45Z">
+    <title>Dark.S01E06.Sic.Mundus.Creatus.Est.DUAL-AUDIO.GER-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2018-01-09T20:33:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andreas0/Teilnehmerliste%20-%20Training%20Saalfelden.xls" added="2018-01-18T13:56:38Z" modified="2018-01-18T13:56:39Z" visited="2018-01-18T13:56:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-18T13:56:38Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2018-01-18T13:56:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andreas0/img041.jpg" added="2018-01-18T17:17:32Z" modified="2018-01-18T17:17:32Z" visited="2018-01-18T17:17:33Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
-          <bookmark:application name="EasyTAG" exec="&apos;easytag %u&apos;" modified="2017-10-08T18:26:54Z" count="2"/>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-18T17:17:32Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Athleteninterviews.xls" added="2017-10-09T06:21:05Z" modified="2017-10-10T12:43:49Z" visited="2017-10-09T06:21:06Z">
+  <bookmark href="file:///tmp/mozilla_andreas0/img041-1.jpg" added="2018-01-18T17:18:02Z" modified="2018-01-18T17:18:02Z" visited="2018-01-18T17:18:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-18T17:18:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andreas0/img041-2.jpg" added="2018-01-18T17:19:04Z" modified="2018-01-18T17:19:04Z" visited="2018-01-18T17:19:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-18T17:19:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Nationalpark/Literatur/Innergschl%C3%B6%C3%9F_Gletscherlehrweg" added="2018-01-30T17:11:12Z" modified="2018-01-30T17:11:12Z" visited="2018-01-30T17:11:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2018-01-30T17:11:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Formular_PRAE.xls" added="2018-01-30T20:29:48Z" modified="2018-01-30T20:39:09Z" visited="2018-01-30T20:29:48Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.ms-excel"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-10T12:43:49Z" count="6"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2018-01-30T20:39:09Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Trainingsplan/Herzog_Katharina/Katharina.odt" added="2017-10-09T06:45:34Z" modified="2017-10-09T06:45:39Z" visited="2017-10-09T06:45:35Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-09T06:45:39Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas" added="2017-10-10T18:17:07Z" modified="2017-10-10T18:17:07Z" visited="2017-10-10T18:17:07Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2017-10-10T18:17:07Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents" added="2017-10-10T18:19:00Z" modified="2017-10-10T18:19:00Z" visited="2017-10-10T18:19:00Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2017-10-10T18:19:00Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/mama1" added="2017-10-10T18:20:36Z" modified="2017-10-10T18:20:36Z" visited="2017-10-10T18:20:36Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2017-10-10T18:20:36Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/mama2" added="2017-10-10T18:21:30Z" modified="2017-10-10T18:21:30Z" visited="2017-10-10T18:21:31Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2017-10-10T18:21:30Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/mama2.pdf" added="2017-10-10T18:22:28Z" modified="2017-10-10T18:22:28Z" visited="2017-10-10T18:22:29Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-10-10T18:22:28Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/mama1.pdf" added="2017-10-10T18:22:28Z" modified="2017-10-10T18:22:28Z" visited="2017-10-10T18:22:29Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-10-10T18:22:28Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Trainingsplan%20Thomas%20Riegler.zip" added="2017-10-10T20:56:44Z" modified="2017-10-10T20:56:51Z" visited="2017-10-10T20:56:44Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-10T20:56:51Z" count="5"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18" added="2017-10-10T20:58:16Z" modified="2017-10-10T20:58:16Z" visited="2017-10-10T20:58:16Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-10-10T20:58:16Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Formular_PRAE.xls" added="2017-10-13T08:42:02Z" modified="2017-10-13T09:02:28Z" visited="2017-10-13T08:42:02Z">
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Athleteninterviews.xls" added="2018-01-30T20:30:55Z" modified="2018-01-30T20:31:00Z" visited="2018-01-30T20:30:56Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.ms-excel"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-13T09:02:28Z" count="9"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2018-01-30T20:31:00Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Formular_PRAE_september" added="2017-10-13T08:55:25Z" modified="2017-10-13T08:55:25Z" visited="2017-10-13T08:55:26Z">
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Formular_PRAE_Dezember" added="2018-01-30T20:39:09Z" modified="2018-01-30T20:39:09Z" visited="2018-01-30T20:39:10Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-13T08:55:25Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2018-01-30T20:39:09Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Formular_PRAE_september.pdf" added="2017-10-13T08:57:42Z" modified="2017-10-13T08:57:42Z" visited="2017-10-13T08:57:42Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-13T08:57:42Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Formular_PRAE" added="2017-10-13T09:02:27Z" modified="2017-10-13T09:02:27Z" visited="2017-10-13T09:02:28Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-13T09:02:27Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Formular_PRAE.ods" added="2017-10-13T09:02:28Z" modified="2017-10-25T14:29:44Z" visited="2017-10-13T09:02:28Z">
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Formular_PRAE.ods" added="2018-01-30T20:42:15Z" modified="2018-01-30T20:53:00Z" visited="2018-01-30T20:42:16Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-25T14:29:44Z" count="6"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2018-01-30T20:53:00Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Aufwandsentsch%C3%A4digung/Reiseaufwandsentsch%C3%A4digung_AndreasBaldinger_September2017" added="2017-10-13T09:10:08Z" modified="2017-10-13T09:10:08Z" visited="2017-10-13T09:10:08Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2017-10-13T09:10:08Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Aufwandsentsch%C3%A4digung/Reiseaufwandsentsch%C3%A4digung_AndreasBaldinger_September2017.pdf" added="2017-10-14T15:00:05Z" modified="2017-10-14T15:00:05Z" visited="2017-10-14T15:00:05Z">
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Aufwandsentsch%C3%A4digung/Reiseaufwandsentsch%C3%A4digung_AndreasBaldinger_November_2017.pdf" added="2018-01-30T20:43:33Z" modified="2018-01-30T20:43:33Z" visited="2018-01-30T20:43:33Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-10-14T15:00:05Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2018-01-30T20:43:33Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///tmp/Datenliste_Kursteilnehmer_2017_18.odt" added="2017-10-15T15:24:47Z" modified="2017-10-15T15:24:47Z" visited="2017-10-15T15:24:47Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T15:24:47Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern2016_17/Anwesenheitslisten/Anwesenheitslistenvorlage.ods" added="2017-10-15T16:15:33Z" modified="2017-10-15T17:41:29Z" visited="2017-10-15T16:15:34Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T17:41:29Z" count="27"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Anwesenheitslistenvorlage.ods" added="2017-10-15T16:28:35Z" modified="2017-10-15T16:28:38Z" visited="2017-10-15T16:28:35Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T16:28:38Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Anwesenheitsliste_Montag_2017_18" added="2017-10-15T16:35:30Z" modified="2017-10-15T16:35:30Z" visited="2017-10-15T16:35:31Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T16:35:30Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Anwesenheitsliste_Montag_2017_18.pdf" added="2017-10-15T16:36:39Z" modified="2017-10-15T17:41:27Z" visited="2017-10-15T16:36:39Z">
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Aufwandsentsch%C3%A4digung/Reiseaufwandsentsch%C3%A4digung_AndreasBaldinger_2017_12.pdf" added="2018-01-30T21:11:31Z" modified="2018-01-30T21:11:31Z" visited="2018-01-30T21:11:31Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T17:41:27Z" count="4"/>
+          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2018-01-30T21:11:31Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andreas/Pictures/Screenshot%20from%202017-10-15%2018-52-18.png" added="2017-10-15T16:52:18Z" modified="2017-10-15T16:52:18Z" visited="2017-10-15T16:52:18Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-15T16:52:18Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/cool_applications" added="2017-10-15T16:53:08Z" modified="2017-10-15T16:53:08Z" visited="2017-10-15T16:53:08Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:groups>
-          <bookmark:group>gedit</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T16:53:08Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/linux_notes/installed_programs" added="2017-10-15T16:53:13Z" modified="2017-10-15T16:53:13Z" visited="2017-10-15T16:53:13Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:groups>
-          <bookmark:group>gedit</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T16:53:13Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/linux_notes/i3-necessities" added="2017-10-15T16:53:15Z" modified="2017-10-15T16:53:15Z" visited="2017-10-15T16:53:16Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:groups>
-          <bookmark:group>gedit</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T16:53:15Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Pictures/Selection_004.png" added="2017-10-15T16:55:35Z" modified="2017-10-15T16:55:35Z" visited="2017-10-15T16:55:35Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-15T16:55:35Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Pictures/kletterhalle_kaprun.png" added="2017-10-15T16:55:49Z" modified="2017-10-15T17:10:54Z" visited="2017-10-15T16:55:50Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-15T16:55:49Z" count="1"/>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-10-15T17:10:54Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Anwesenheitsliste_Freitag_2017_18.pdf" added="2017-10-15T17:20:58Z" modified="2017-10-15T17:22:42Z" visited="2017-10-15T17:20:59Z">
+  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Aufwandsentsch%C3%A4digung/Reiseaufwandsentsch%C3%A4digung_AndreasBaldinger_2018_01.pdf" added="2018-01-30T21:13:41Z" modified="2018-01-30T21:13:41Z" visited="2018-01-30T21:13:41Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-15T17:22:42Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Aufteilung_MontagFreitag_Blocken" added="2017-10-21T18:08:47Z" modified="2017-10-21T18:08:47Z" visited="2017-10-21T18:08:47Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-21T18:08:47Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/Kletterhalle_Kaprun/Kinderklettern_2017_18/Aufteilung_MontagFreitag_Blocken.odt" added="2017-10-21T18:08:47Z" modified="2017-10-25T19:17:23Z" visited="2017-10-21T18:08:47Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-25T19:17:23Z" count="9"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Aufwandsentsch%C3%A4digung/Reiseaufwandsentsch%C3%A4digung_AndreasBaldinger_Oktober2017.pdf" added="2017-10-25T14:29:43Z" modified="2017-10-25T14:29:43Z" visited="2017-10-25T14:29:43Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-25T14:29:43Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Privat/Klettern/KVS_Trainingsgruppe/Training_2017_18/Teilnehmerliste%20-%20Training%20Saalfelden.xls" added="2017-10-25T14:45:56Z" modified="2017-10-31T09:36:34Z" visited="2017-10-25T14:45:56Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.ms-excel"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-31T09:36:34Z" count="6"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Downloads/export.ics" added="2017-10-25T21:09:45Z" modified="2017-10-25T21:16:58Z" visited="2017-10-25T21:09:45Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/calendar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-10-25T21:16:58Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Downloads/export(1).ics" added="2017-10-25T21:15:51Z" modified="2017-10-25T21:15:51Z" visited="2017-10-25T21:15:52Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/calendar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-10-25T21:15:51Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Downloads/Dienstplan.pdf" added="2017-10-26T15:38:22Z" modified="2017-10-26T15:38:22Z" visited="2017-10-26T15:38:22Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-10-26T15:38:22Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/andreas/Linux_Data" added="2017-10-27T17:13:48Z" modified="2017-11-05T19:35:09Z" visited="2017-10-27T17:13:48Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2017-11-05T19:35:09Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/andreas/Linux_Backup/database" added="2017-10-29T09:42:42Z" modified="2017-11-03T19:35:00Z" visited="2017-10-29T09:42:42Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="veracrypt" exec="&apos;veracrypt %u&apos;" modified="2017-11-03T19:35:00Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_andreas0/Anw%C3%A4rter%20Anmeldung.docx" added="2017-10-31T09:40:31Z" modified="2017-11-04T09:00:41Z" visited="2017-10-31T09:40:31Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-11-04T09:00:41Z" count="9"/>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-11-04T08:50:30Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Nationalpark/Berg_u_Naturwacht/Andreas%20Baldinger%202017-10-31" added="2017-11-04T09:04:43Z" modified="2017-11-04T09:04:43Z" visited="2017-11-04T09:04:43Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2017-11-04T09:04:43Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/nsmail.docx" added="2017-11-04T09:12:20Z" modified="2017-11-04T09:12:20Z" visited="2017-11-04T09:12:21Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-11-04T09:12:20Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Nationalpark/Berg_u_Naturwacht/Andreas%20Baldinger%202017-10-31.pdf" added="2017-11-04T09:12:41Z" modified="2017-11-04T09:12:41Z" visited="2017-11-04T09:12:42Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-11-04T09:12:41Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Downloads/progit.pdf" added="2017-11-06T23:57:14Z" modified="2017-11-06T23:57:14Z" visited="2017-11-06T23:57:14Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-11-06T23:57:14Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_andreas0/Workshop_Sport_II.pdf" added="2017-11-07T11:06:25Z" modified="2017-11-07T11:06:25Z" visited="2017-11-07T11:06:25Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-11-07T11:06:25Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Downloads/Canon-i-sensys_MF4350d-.ppd" added="2017-11-07T11:27:03Z" modified="2017-11-07T11:27:16Z" visited="2017-11-07T11:27:03Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-11-07T11:27:03Z" count="1"/>
-          <bookmark:application name="system-config-printer.py" exec="&apos;system-config-printer.py %u&apos;" modified="2017-11-07T11:27:16Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Downloads/o151en_linux_UFRII_v310.zip" added="2017-11-07T12:03:18Z" modified="2017-11-07T12:03:19Z" visited="2017-11-07T12:03:18Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-11-07T12:03:18Z" count="1"/>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-11-07T12:03:19Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Downloads/o1581en_linux_UFRII_v300.zip" added="2017-11-07T12:04:40Z" modified="2017-11-07T12:04:56Z" visited="2017-11-07T12:04:40Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-11-07T12:04:40Z" count="1"/>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-11-07T12:04:56Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Downloads/o151en_linux_UFRII_v310(1).zip" added="2017-11-07T12:15:41Z" modified="2017-11-07T12:15:41Z" visited="2017-11-07T12:15:41Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-11-07T12:15:41Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/andreas/Documents/DOKUMENTE/Nationalpark/NP-Gallery%20deutsch-englisch.docx" added="2017-11-07T12:43:29Z" modified="2017-11-07T12:43:29Z" visited="2017-11-07T12:43:29Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-11-07T12:43:29Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_andreas0/0001_171107134958_001.pdf" added="2017-11-07T12:59:50Z" modified="2017-11-07T12:59:50Z" visited="2017-11-07T12:59:50Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-11-07T12:59:50Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_andreas0/0004_171107135819_001.pdf" added="2017-11-07T12:59:58Z" modified="2017-11-07T12:59:58Z" visited="2017-11-07T12:59:58Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-11-07T12:59:58Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_andreas0/0005_171107141312_001.pdf" added="2017-11-07T13:15:02Z" modified="2017-11-07T13:15:02Z" visited="2017-11-07T13:15:02.856082Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-11-07T13:15:02Z" count="1"/>
+          <bookmark:application name="gscan2pdf" exec="&apos;gscan2pdf %u&apos;" modified="2018-01-30T21:13:41Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
