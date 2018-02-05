@@ -1,0 +1,15 @@
+ToDo:
+-----
+
+- improve artwork (application icons, website)
+
+- realize and integrate the ideas of Yves Bugnet (see his mails)
+  => he allready send implementations of diagrams and so on
+     (see jcdiary-yves-20050106.zip)
+
+- can someone provide a french, norwegian or other translations ?
+- (add possibility to add digital images to items ?)
+
+
+Bugs:
+-----

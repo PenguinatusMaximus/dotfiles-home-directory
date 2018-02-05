@@ -1,0 +1,192 @@
+Changes:
+--------
+
+New in 3.0:
+
+  -----------------------------------------------------------------------
+  - new name "ClimbLog" instead of "jClimber's Diary" (too complicated) -
+  -----------------------------------------------------------------------
+  - use of JDesktop Layout Manager and Netbeans Mattise designer
+    (new library swing-layout-1.0.jar)
+  - all dialogs are rewritten using Mattise 
+  - Group, Route and Search dialogs are resizable on demand and widgets 
+    are scale properly (was not before)
+  - translation updates
+  - use of Windows Look&Feel on Win32 systems (Metal L&F on all other systems)
+  - bugfixes:
+    - writer for XML data and exported HTML now using UTF-8 encoding
+      (wasn't the case on Win32 systems, application data can't be loaded)
+    - Group- and RouteDialog now working with clones of the edited items
+      (otherwise the object was modified even when user cancels dialog)
+    - when tree item (group or route) were changed in dialog then the new name
+      will be displayed correctly (was "ABC..." before)
+  - refactoring:
+    - class DiaryItem moved to data package
+    - class DiaryItem only contains common attributes for all diary item types
+    - new Route class (subclass of DiaryItem) contains route specfic data
+    - route date is now internally stored as Date object, no cryptic
+      encoding/decoding anymore
+    - all data classes are JavaBeans now (getter/setter, ...)
+    - removed the AFW framework classes, they provide no benefit
+      => so all the nasty casts for document and view access are removed too
+    - removed the debug commandline parameter, was not in use
+    - removed public tree-access in JCDView, added getter for it
+    - removed public attributes in JCDDocument, added getter for it
+    - moved the search dialog atties from JCDDocument to SearchDialog (static)
+    - renamed all JCD* classes to CL*
+  - application data directory is now "~/.climblog", the climblog data is
+    stored in "climblog.xml"
+    => when not available yet it tries to load the data in old format from
+       "~/.jcdiary/cldiary" (automatic import)
+  - created new Netbeans (5.0) project and Ant build files for ClimbLog, they 
+    have much more features then my custome Ant file (JavaDoc, Tests, ...)
+    (the old Ant file is in misc/ant-build-old)
+  - changed application name in all text, resource and help files
+  - ClimbLog XML file format changes:
+    - new root element is now climblog
+    - root element has version-atty for better upgrade and conversion 
+      possibilities
+    - route date is now stored using xsd:date data type
+    - boolean elements are now using "true" and "false"
+  - user can specify now multiple climbs for each route
+    - "Route" dialog has a table for all climbs of this route
+    - new "Route climb" dialog for editing the route climb entries
+      (date, lead, completion, comments)
+    - in diary tree the route names contain the number of climbs when > 1
+    - export XSL for now exports all climbs of a route
+    - Count entries dialog now displays the sum of route climbs 
+      (completed and not completed)
+    - online help update
+
+New in 2.2:
+
+  - Ant build file creates manifest for JAR file with additional
+    attributes
+  - changed encoding of XML storage file cldiary.xml to UTF-8 (there were read
+    problems with ISO-9959-1 encoding and many locales were not supported)
+  - changed encoding of export XSL and generated HTML file to UTF-8
+    (support of more locales)
+  - dialog actions (search, count, ...) are started by default key (Enter)
+  - removed unused local variables
+  - suppress of serialization warnings when using Eclipse
+  - HTML export: uncompleted routes are marked with red background
+
+New in 2.1:
+
+  - various code cleanups (Eclipse warnings)
+  - update to JDOM 1.0 (many bugfixes)
+  - removed deprecated method calls
+  - switched to Java2 1.5.0 (set JAVA_HOME properly !)
+    - use of enums for types
+  - remove of Kunststoff L&F, it is not supported anymore
+    => use of the new Java 5 L&F, looks better
+  - the creates HTML output is valid XHTML 1.0 now (XSL improvements)
+  - bring help window to front, when started and allready existing
+  - cleanup of the cldiary XSD schema
+  - validating of XML against XML schema at startup
+    (DTD validation only for files from previous versions)
+  - keyboard shortcuts for the complete menus
+
+New in 2.0:
+
+  - Java WebStart installation support
+  - read/write diary data from/to "$HOME/.jcdiary/cldiary.xml" instead of
+    current directory => better for multi-user systems (only one installation
+    necessary)
+  - online help is read from the jar file now
+  - new set of toolbar icons (from GTK2 project) and "rollover" effect
+  - renamed all remaining packages/classes/methods/attributes with german
+    names to english names
+  - complete JavaDoc for whole project
+  - "Add ..." menuitems are now in context menu of each entry
+  - new "count entries" dialog which displays number of all kind of 
+    subentries (areas, groups, rocks, routes)
+  - XSL for HTML export now cares about "completed" atty of routes
+  - dialogs are now displayed relative to main window not in upper left
+  - a route can be now marked as "not completed"
+  - rewritten group and route dialog
+  - added "completed" attribute to route elements
+    (the attribute is optional, default=1 (true))
+  - created Schema definition for cldiary.xml for better XML file
+    definition (not used by appl., because DTD parsing is faster)
+  - rewritten Export functionality using XSL stylesheets
+    => the new Export is about 100 times faster for avarage diaries
+  - created XSL stylesheet for XSL export
+  - use of Preferences API of instead or properties file
+    => removed AFWProperties class from AFW
+  - all resource files are now in one directory
+  - update to JDOM beta8, use of Crimson in Java2
+  - all required libraries are in "libs" now (too much)
+  - removed "000" space label in rout dialog
+  - use of nice looking Kunststoff theme
+  - show whaitcursor while reading and exporting the diary
+  - Bugfix: scrollpane containing the diary tree was somtimes empty
+  - Java2 1.4 is REQUIRED now
+
+New in 1.2.1:
+    
+  - italian language support both in GUI and in online help
+    (done by Mario Moroni - thanks !)
+
+New in 1.2:
+    
+  - Bugfix: scroll to search result, when it is out of current view
+  - english is default language now (most people understand)
+  - user's property file is now ".jcdiary" instead of ".jgb-jcd"
+  - internal project name changed from "jgb" (german) to jcdiary
+  - the characters '<', '>', '&', '"' and ''' can be used in
+    item names and comments now
+  - use of JDOM and JAXP1.1 (Crimson XML parser)
+    => read&write of XML data via JDOM
+    => validating reading of the XML file
+    => reading as fast as JAXP1.0 without JDOM and even 
+       faster than Xerces !
+    => 5% less memory usage then jcd v1.1
+    => writing of XML much faster, because no checking
+       for special characters needed anymore 
+  - new packages structure ("de.saring...")
+  - project files updated (new webpage, email)
+  - use of ANT (build.xml) for compiling/packaging/running
+
+New in 1.1:
+
+  - using now Sun's "Java API for XML Parsing (JAXP)" standard
+  - replaced OpenXML with Sun's ProjectX-Parser 
+    -> faster and smaller (less download size)
+
+New in 1.0:
+
+  - added a toolbar for the main actions
+  - added functionality for finding an entry (find dialog)
+  - added DOCTYPE-tag (for the DTD) in the XML-file
+  - using now my Application Framework (-> huge code cleanup)
+
+New in 0.9:
+
+  - completed the feature for exporting all or parts from the 
+    diary data to a html file
+  - switching to wait-cusors while loading, storing and exporting
+
+New in 0.85:
+
+  - fixed XML-encoding bug (now it is possible to view the diary
+    data in e.g. Internet Explorer 5 or Netscape 6)
+  - major code cleanups and change of german class and instance
+    names to english names
+  - restore windows geometry of last session
+
+New in 0.8:
+
+  - added an english version of the online-help
+  - added a DTD ("cldiary.dtd") for validating the document
+  - file 'gbuch.xml' moved to 'xml/cldiary.xml' !
+  - bugfix: expand entries when adding a new item
+  - bugfix: impossible to start multiple online-help windows
+  - english names for xml-elements (tags) (reading of 
+    german element names is still supported)
+  - automatic linewrapping in textareas for comments
+  - using now OpenXML 1.2 instead of 1.1
+
+Notes:
+  If you have used an earlier version ( < 0.8) you must move
+  the data file 'gbuch.xml' to 'xml/cldiary.xml' !

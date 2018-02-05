@@ -1,0 +1,2 @@
+virtualenv venv			create virtual python environment 
+souce venv/bin/activate		activate virtual pythn environment
